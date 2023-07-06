@@ -1,6 +1,7 @@
 -  Hi, I’m Alkesh Raj.
 -  I'm a Fresher with a college degree of B.Tech in Information Technology.
 -  My interest is Programming in Java Language.
+-  I've used my Java programming skills to develop my Android Studio project. 
 -  I can also write codes in C, SQL, and OOPs.
 -  I've made **Expense Tracker System** as a group project of our Final Year Project. The Source code can be found in my profile.
 -  My hobbies are playing Cricket, Photography, and Singing.
